@@ -1,6 +1,6 @@
 ## IDEAL: Improved DEnse LocAL Contrastive Learning for Semi-Supervised Medical Image Segmentation, ICASSP 2023
 
-Hritam Basak*, **Soumitri Chattopadhyay***, Rohit Kundu*, Sayan Nag*, Rammohan Mallipeddi, [**"IDEAL: Improved DEnse LocAL Contrastive Learning for Semi-Supervised Medical Image Segmentation"**](https://arxiv.org/abs/2210.15075), _IEEE Intl. Conf. on Acoustics, Speech and Signal Processing_ **(ICASSP)**, 2023.
+Hritam Basak*, Soumitri Chattopadhyay*, Rohit Kundu*, Sayan Nag*, Rammohan Mallipeddi, [**"IDEAL: Improved DEnse LocAL Contrastive Learning for Semi-Supervised Medical Image Segmentation"**](https://arxiv.org/abs/2210.15075), _IEEE Intl. Conf. on Acoustics, Speech and Signal Processing_ **(ICASSP)**, 2023.
 
 [Project Page](https://rohit-kundu.github.io/IDEAL-ICASSP23/) | [arXiv](https://arxiv.org/abs/2210.15075)
 
